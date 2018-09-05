@@ -1,0 +1,13 @@
+{
+  "name": "audio-player",
+  "version": "1.0.0",
+  "description": "Audio Player",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SweetMei25/Audio-Player.git"
+  },
+  "license": "ISC"
+}
